@@ -1,5 +1,5 @@
 hello atguigu! hello git 222222222222222222222222222222222222222
-hello atguigu! hello git 333333333333333333333333333333333333333
+hello atguigu! hello
 hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
@@ -18,12 +18,9 @@ hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
 hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu! hello git
-hello atguigu!ello atguigu! hello git
 hello atguigu!ello atguigu! hello git
 hello atguigu!ello atguigu! hello git
 hello atguigu!ello atguigu! hello git
 hello atguigu!ello atguigu! hello git  master test
 hello atguigu!ello atguigu! hello git
+hello atguigu!ello atguigu! hello git hot-fix test
